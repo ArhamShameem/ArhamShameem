@@ -6,10 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/arham821" target="blank"><img src="https://img.shields.io/twitter/follow/arham821?logo=twitter&style=for-the-badge" alt="arham821" /></a> </p>
 
-- 🔭 I’m currently working on **X(twitter) clone**
-
-- 🌱 I’m currently learning **Nextjs**
-
 - 👨‍💻 All of my projects are available at [https://my-portfolio-git-master-arhamshameem.vercel.app/](https://my-portfolio-git-master-arhamshameem.vercel.app/)
 
 - 💬 Ask me about **MERN**
@@ -17,8 +13,6 @@
 - 📫 How to reach me **arhamshameem001@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1xDEXo4pr0NSuS_UX4NM9vbTS0VZFe9ys?usp=drive_link](https://drive.google.com/drive/folders/1xDEXo4pr0NSuS_UX4NM9vbTS0VZFe9ys?usp=drive_link)
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
