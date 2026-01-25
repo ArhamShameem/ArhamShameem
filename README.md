@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://arhamshameemportfolio.vercel.app/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **React.js, Next.js, JavaScript, TypeScript, Node.js, and everything web dev**
 
 - 📫 How to reach me **arhamshameem001@gmail.com**
 
