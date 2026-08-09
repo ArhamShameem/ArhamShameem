@@ -26,7 +26,7 @@ Building scalable, performant, and user-centric web applications using modern Ja
 
 ## 🌐 Portfolio & Profiles
 
-- 🌍 Portfolio: https://arhamshameemportfolio.vercel.app/
+- 🌍 Portfolio: https://arhamshameem.vercel.app/
 - 💼 LinkedIn: https://linkedin.com/in/arham-shameem
 - 🐦 Twitter: https://twitter.com/arham821
 - 💻 LeetCode: https://leetcode.com/u/arhamshameem001/
